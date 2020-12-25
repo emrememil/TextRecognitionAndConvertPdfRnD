@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540639245776",
+    "project_id": "textrecognitionrnd",
+    "storage_bucket": "textrecognitionrnd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540639245776:android:e0cb00413c1f549777b5d5",
+        "android_client_info": {
+          "package_name": "com.example.textrecognitionrnd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540639245776-ff0g78rgjf3sop3jqg0o109qv9q2s1re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_gd6xtWvPM78m5ADmQ6asogcx6j33N9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540639245776-ff0g78rgjf3sop3jqg0o109qv9q2s1re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
